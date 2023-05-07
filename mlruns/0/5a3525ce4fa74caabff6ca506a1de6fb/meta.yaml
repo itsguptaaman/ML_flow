@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/5a3525ce4fa74caabff6ca506a1de6fb/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a3525ce4fa74caabff6ca506a1de6fb
+run_name: awesome-perch-377
+run_uuid: 5a3525ce4fa74caabff6ca506a1de6fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

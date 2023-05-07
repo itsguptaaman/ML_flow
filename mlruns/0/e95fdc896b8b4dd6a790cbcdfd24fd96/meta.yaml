@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/e95fdc896b8b4dd6a790cbcdfd24fd96/artifacts
+end_time: 1683446420395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e95fdc896b8b4dd6a790cbcdfd24fd96
+run_name: amazing-bass-254
+run_uuid: e95fdc896b8b4dd6a790cbcdfd24fd96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446416694
+status: 3
+tags: []
+user_id: Aman

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/38778ed775b145abb191a7a5a0db29e1/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38778ed775b145abb191a7a5a0db29e1
+run_name: thundering-goose-43
+run_uuid: 38778ed775b145abb191a7a5a0db29e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

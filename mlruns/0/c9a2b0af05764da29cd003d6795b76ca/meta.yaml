@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/c9a2b0af05764da29cd003d6795b76ca/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9a2b0af05764da29cd003d6795b76ca
+run_name: painted-chimp-916
+run_uuid: c9a2b0af05764da29cd003d6795b76ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

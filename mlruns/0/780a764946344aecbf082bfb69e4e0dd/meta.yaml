@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/780a764946344aecbf082bfb69e4e0dd/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 780a764946344aecbf082bfb69e4e0dd
+run_name: abrasive-asp-961
+run_uuid: 780a764946344aecbf082bfb69e4e0dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

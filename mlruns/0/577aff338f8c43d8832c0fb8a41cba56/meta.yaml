@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/577aff338f8c43d8832c0fb8a41cba56/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 577aff338f8c43d8832c0fb8a41cba56
+run_name: nimble-moose-940
+run_uuid: 577aff338f8c43d8832c0fb8a41cba56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

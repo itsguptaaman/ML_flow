@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/a7fb6c5066834280a2568d9873e87f1f/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7fb6c5066834280a2568d9873e87f1f
+run_name: abrasive-hound-789
+run_uuid: a7fb6c5066834280a2568d9873e87f1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

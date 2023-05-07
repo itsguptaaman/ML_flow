@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/18fd156e11f84e07a3b0afc34eaf444d/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18fd156e11f84e07a3b0afc34eaf444d
+run_name: suave-turtle-483
+run_uuid: 18fd156e11f84e07a3b0afc34eaf444d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

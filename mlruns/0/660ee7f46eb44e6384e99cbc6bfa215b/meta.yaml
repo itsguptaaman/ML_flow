@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/660ee7f46eb44e6384e99cbc6bfa215b/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 660ee7f46eb44e6384e99cbc6bfa215b
+run_name: trusting-bear-907
+run_uuid: 660ee7f46eb44e6384e99cbc6bfa215b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

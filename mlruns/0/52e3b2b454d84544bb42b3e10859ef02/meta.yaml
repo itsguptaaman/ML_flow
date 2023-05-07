@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/52e3b2b454d84544bb42b3e10859ef02/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52e3b2b454d84544bb42b3e10859ef02
+run_name: bustling-skunk-887
+run_uuid: 52e3b2b454d84544bb42b3e10859ef02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

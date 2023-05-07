@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/703d04dad49c4421bf521fb153bb46a8/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 703d04dad49c4421bf521fb153bb46a8
+run_name: delightful-cow-320
+run_uuid: 703d04dad49c4421bf521fb153bb46a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

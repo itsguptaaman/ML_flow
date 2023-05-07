@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/1ea26e29aa5f48a58a98ae9cd509e027/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ea26e29aa5f48a58a98ae9cd509e027
+run_name: bald-vole-119
+run_uuid: 1ea26e29aa5f48a58a98ae9cd509e027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

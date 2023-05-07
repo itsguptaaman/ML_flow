@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/42dca20684934a308be6be9b1e33fe18/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42dca20684934a308be6be9b1e33fe18
+run_name: spiffy-squirrel-485
+run_uuid: 42dca20684934a308be6be9b1e33fe18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

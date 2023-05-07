@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/5bec05273b8c406dbbc447678cf7bcd8/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bec05273b8c406dbbc447678cf7bcd8
+run_name: chill-grouse-352
+run_uuid: 5bec05273b8c406dbbc447678cf7bcd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

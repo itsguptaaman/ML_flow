@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/3ab6a7183b0f411ca0020b07dc210947/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ab6a7183b0f411ca0020b07dc210947
+run_name: big-loon-457
+run_uuid: 3ab6a7183b0f411ca0020b07dc210947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

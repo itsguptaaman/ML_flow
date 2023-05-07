@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/3f2aa41df3424ca1906c6e5f222f3b22/artifacts
+end_time: 1683446511419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f2aa41df3424ca1906c6e5f222f3b22
+run_name: bouncy-gnat-47
+run_uuid: 3f2aa41df3424ca1906c6e5f222f3b22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

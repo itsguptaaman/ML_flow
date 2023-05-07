@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/cd8e60f599af41ac9dff4c3f52602257/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd8e60f599af41ac9dff4c3f52602257
+run_name: trusting-midge-967
+run_uuid: cd8e60f599af41ac9dff4c3f52602257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

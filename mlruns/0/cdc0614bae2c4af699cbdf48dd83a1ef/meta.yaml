@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/cdc0614bae2c4af699cbdf48dd83a1ef/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdc0614bae2c4af699cbdf48dd83a1ef
+run_name: bemused-shrike-371
+run_uuid: cdc0614bae2c4af699cbdf48dd83a1ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

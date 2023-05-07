@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/cd1634897cf04b6f87f55ab1af6007bc/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd1634897cf04b6f87f55ab1af6007bc
+run_name: bold-snake-778
+run_uuid: cd1634897cf04b6f87f55ab1af6007bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

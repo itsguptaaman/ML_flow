@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/2bc226e268954e76b36bfd156f218503/artifacts
+end_time: 1683445438765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bc226e268954e76b36bfd156f218503
+run_name: clean-mink-338
+run_uuid: 2bc226e268954e76b36bfd156f218503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683445433885
+status: 3
+tags: []
+user_id: Aman

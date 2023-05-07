@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/eea6e3ee4e5b49a7810cb9fa0e3214b4/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eea6e3ee4e5b49a7810cb9fa0e3214b4
+run_name: sassy-loon-452
+run_uuid: eea6e3ee4e5b49a7810cb9fa0e3214b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

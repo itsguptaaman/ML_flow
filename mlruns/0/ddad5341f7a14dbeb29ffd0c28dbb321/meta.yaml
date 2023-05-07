@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/ddad5341f7a14dbeb29ffd0c28dbb321/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddad5341f7a14dbeb29ffd0c28dbb321
+run_name: rogue-shrew-461
+run_uuid: ddad5341f7a14dbeb29ffd0c28dbb321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

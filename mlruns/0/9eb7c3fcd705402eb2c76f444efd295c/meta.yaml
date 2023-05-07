@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/9eb7c3fcd705402eb2c76f444efd295c/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9eb7c3fcd705402eb2c76f444efd295c
+run_name: clumsy-hound-1
+run_uuid: 9eb7c3fcd705402eb2c76f444efd295c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

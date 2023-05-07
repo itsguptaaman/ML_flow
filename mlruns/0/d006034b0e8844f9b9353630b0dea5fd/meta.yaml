@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/d006034b0e8844f9b9353630b0dea5fd/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d006034b0e8844f9b9353630b0dea5fd
+run_name: bedecked-foal-270
+run_uuid: d006034b0e8844f9b9353630b0dea5fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

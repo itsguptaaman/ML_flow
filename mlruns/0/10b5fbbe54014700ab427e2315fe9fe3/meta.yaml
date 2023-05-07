@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/10b5fbbe54014700ab427e2315fe9fe3/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10b5fbbe54014700ab427e2315fe9fe3
+run_name: sincere-gnu-248
+run_uuid: 10b5fbbe54014700ab427e2315fe9fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

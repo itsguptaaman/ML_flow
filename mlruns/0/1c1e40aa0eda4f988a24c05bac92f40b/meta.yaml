@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/1c1e40aa0eda4f988a24c05bac92f40b/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c1e40aa0eda4f988a24c05bac92f40b
+run_name: bedecked-mink-614
+run_uuid: 1c1e40aa0eda4f988a24c05bac92f40b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

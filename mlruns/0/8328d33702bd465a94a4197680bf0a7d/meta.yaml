@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/8328d33702bd465a94a4197680bf0a7d/artifacts
+end_time: 1683446486995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8328d33702bd465a94a4197680bf0a7d
+run_name: flawless-koi-224
+run_uuid: 8328d33702bd465a94a4197680bf0a7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446420445
+status: 3
+tags: []
+user_id: Aman

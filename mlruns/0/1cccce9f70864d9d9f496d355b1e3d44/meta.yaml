@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/1cccce9f70864d9d9f496d355b1e3d44/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cccce9f70864d9d9f496d355b1e3d44
+run_name: magnificent-panda-88
+run_uuid: 1cccce9f70864d9d9f496d355b1e3d44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

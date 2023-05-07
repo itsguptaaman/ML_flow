@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/92211cffd912436e914c8b7f39bbed1b/artifacts
+end_time: 1683446508588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92211cffd912436e914c8b7f39bbed1b
+run_name: capable-fish-588
+run_uuid: 92211cffd912436e914c8b7f39bbed1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683446487074
+status: 3
+tags: []
+user_id: Aman

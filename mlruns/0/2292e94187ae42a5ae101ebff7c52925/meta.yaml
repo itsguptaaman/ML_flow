@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aman/Downloads/Innomatics/mlruns/0/2292e94187ae42a5ae101ebff7c52925/artifacts
+end_time: 1683445221658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2292e94187ae42a5ae101ebff7c52925
+run_name: aged-mule-905
+run_uuid: 2292e94187ae42a5ae101ebff7c52925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683445217207
+status: 3
+tags: []
+user_id: Aman
